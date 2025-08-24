@@ -87,5 +87,5 @@ Unindo **tecnologia + comunidade + acessibilidade**, queremos transformar a rela
 | <img src="URL_DA_FOTO_CAMILA" width="100" style="border-radius:50%"> | Camila Silva | [@GitHubCamila](https://github.com/SEU-USUARIO) |
 | <img src="URL_DA_FOTO_ENZO" width="100" style="border-radius:50%"> | Enzo Menali | [@GitHubEnzo](https://github.com/SEU-USUARIO) |
 | <img src="URL_DA_FOTO_GEOVANNA" width="100" style="border-radius:50%"> | Geovanna Umbelino | [@GitHubGeovanna](https://github.com/SEU-USUARIO) |
-| <img src="URL_DA_FOTO_LUISA" width="100" style="border-radius:50%"> | Luisa de Souza | [@GitHubLuisa](https://github.com/SEU-USUARIO) |
+| <img src="URL_DA_FOTO_LUISA" width="100" style="border-radius:50%"> | Luisa de Souza | [@GitHubLuisa](https://github.com/luisa12ll) |
 | <img src="URL_DA_FOTO_PAULO" width="100" style="border-radius:50%"> | Paulo Vitor Gomes | [@GitHubPaulo](https://github.com/SEU-USUARIO) |
