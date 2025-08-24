@@ -84,8 +84,8 @@ Unindo **tecnologia + comunidade + acessibilidade**, queremos transformar a rela
 
 | Foto | Nome | GitHub |
 |------|------|--------|
-| <img src="URL_DA_FOTO_CAMILA" width="100" style="border-radius:50%"> | Camila Silva | [@GitHubCamila](https://github.com/SEU-USUARIO) |
-| <img src="URL_DA_FOTO_ENZO" width="100" style="border-radius:50%"> | Enzo Menali | [@GitHubEnzo](https://github.com/SEU-USUARIO) |
+| <img src="https://i.postimg.cc/MHMyqqxB/Whats-App-Image-2025-08-24-at-20-49-04.jpg" width="100" style="border-radius:50%"> | Camila Silva | [@GitHubCamila](https://github.com/CamilaSilvaC) |
+| <img src="https://i.postimg.cc/WbyHG1tB/Whats-App-Image-2025-08-24-at-20-44-57.jpg" width="100" style="border-radius:50%"> | Enzo Menali | [@GitHubEnzo](https://github.com/menali17) |
 | <img src="https://i.postimg.cc/C1ZZf7tT/Whats-App-Image-2025-08-24-at-17-49-20.jpg" width="100" style="border-radius:50%"> | Geovanna Umbelino | [@GitHubGeovanna](https://github.com/GeovannaUmbelino) |
 | <img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="100" style="border-radius:50%"> | Luisa de Souza | [@GitHubLuisa](https://github.com/luisa12ll) |
-| <img src="URL_DA_FOTO_PAULO" width="100" style="border-radius:50%"> | Paulo Vitor Gomes | [@GitHubPaulo](https://github.com/gpaulovit) |
+| <img src="https://i.postimg.cc/pLtDbwS9/Whats-App-Image-2025-08-24-at-20-49-32.jpg" width="100" style="border-radius:50%"> | Paulo Vitor Gomes | [@GitHubPaulo](https://github.com/gpaulovit) |
