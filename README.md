@@ -1,9 +1,16 @@
+
 # 🗺️ Brasília Inclusiva  
+
 ### Plataforma Integrada de Acessibilidade e Guia de Áreas Verdes  
 
 👩‍💻 **Equipe:** Code&Cuida  
 👨‍🏫 **Orientador:** Nilton Correia da Silva  
 🎓 **Instituição:** Universidade de Brasília – UnB 
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Finalizado-green?style=flat-square)
+</div>
 
 ---
 
